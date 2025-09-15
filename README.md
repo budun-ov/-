@@ -14,22 +14,22 @@
 Для создания диаграмм использован PlantUML. Вставьте изображения диаграмм в соответствующие разделы ниже:
 
 * Бизнес процессы – BPMN (до внедрения):  
-  
+  ![diagrams/до.png](https://github.com/budun-ov/-/blob/41b550210dd3175de731280960e8b8bc671a5c9a/diagrams/%D0%B4%D0%BE.png)
 
 * Бизнес процессы – BPMN (после внедрения):  
-
+  ![diagrams/После.png](https://github.com/budun-ov/-/blob/41b550210dd3175de731280960e8b8bc671a5c9a/diagrams/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5.png)
 
 * Структура данных – ERD:  
-
+  ![diagrams/3.png](https://github.com/budun-ov/-/blob/41b550210dd3175de731280960e8b8bc671a5c9a/diagrams/3.png)
 
 * Архитектура системы (свободная нотация):  
-
+  ![diagrams/4.png](https://github.com/budun-ov/-/blob/41b550210dd3175de731280960e8b8bc671a5c9a/diagrams/4.png)
 
 * Структурная UML-диаграмма – диаграмма классов:  
-
+  ![diagrams/5.png](https://github.com/budun-ov/-/blob/41b550210dd3175de731280960e8b8bc671a5c9a/diagrams/5.png)
 
 * Поведенческая UML-диаграмма – диаграмма последовательности:  
-
+  ![diagrams/6.png](https://github.com/budun-ov/-/blob/41b550210dd3175de731280960e8b8bc671a5c9a/diagrams/6.png)
 
 # Цели и предпосылки
 
